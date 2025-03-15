@@ -1,4 +1,8 @@
 [
   "better-word-count",
-  "smart-random-note"
+  "smart-random-note",
+  "obsidian-importer",
+  "calendar",
+  "templater-obsidian",
+  "periodic-notes"
 ]
