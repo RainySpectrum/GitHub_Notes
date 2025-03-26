@@ -58,10 +58,3 @@
 
 - [ ]  **Review this by:**
 - [ ]  **Hands-on practice with:**
-
-### 🔹 How to Use:
-- Save this as `web-dev-notes.md` in your **Obsidian** vault.
-- Use **Templater** to auto-fill `{{title}}` and `{{date}}`.
-- Paste code snippets directly into the markdown.
-
-Would you like me to customize it further for frameworks like Bootstrap, Tailwind, or JavaScript libraries? 🚀
